@@ -1,7 +1,7 @@
 # App Gif React
 
 ## Search gifs app
-![alt text](https://github.com/KryptomSilver/gif-app-react/blob/main/previw.png?raw=true)
+![alt text](https://github.com/KryptomSilver/gif-app-react/blob/main/previw1.png?raw=true)
 
 #### Table of Contents
 - [Development Setup](#development-setup)
