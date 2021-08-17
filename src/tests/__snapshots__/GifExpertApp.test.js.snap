@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prubas en el componente <GifExpertApp/> Debe de mostrar el componente correctamente 1`] = `ShallowWrapper {}`;
+
+exports[`Prubas en el componente <GifExpertApp/> Debe de mostrar la lista de categorias 1`] = `ShallowWrapper {}`;
